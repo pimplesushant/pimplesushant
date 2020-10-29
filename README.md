@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi 👋
+### 💬 About me..
+I’m **Sushant** . I'm web developer currently living in Pune :india:.I graduated from University of Pune. My favorite subjects at university were all the ones related with web development. The main reason I am passionate about helping others with code that I create, is that I can leverage my creativity, because there are so many ways to achieve the same goal when you code and I like to find the optimal one for each scenario.
+I am a good listener and always ready to help. You can get in touch with me on the networks below in _How to reach me_. 
+I'd love to hear from you.
 
-<!--
-**pimplesushant/pimplesushant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a good listener and always ready to help. You can get in touch with me on the networks above.
 
-Here are some ideas to get you started:
+If you want to give feedback? I'd love to hear from you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Skillset..
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sourcetree/sourcetree-original-wordmark.svg" alt="sourcetree" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-plain-wordmark.svg" alt="phpstorm" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-plain.svg" alt="slack" width="40" height="40"/>
+
+
+### 📫 Reach me..
+   <a href="https://pimplesushant.in/" target="_blank"><img src="https://pimplesushant.in/images/pimplesushant.jpg" alt="bootstrap" width="40" height="40"/></a>
+   <a href="https://www.facebook.com/pimplesushant" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-plain.svg" alt="bootstrap" width="40" height="40"/></a>
+   <a href="https://www.linkedin.com/in/pimplesushant/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
+   <a href="https://twitter.com/pimplesushant" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
+   <a href="https://github.com/pimplesushant" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
